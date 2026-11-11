@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gatelispa.github.io/gateli-alaciados-spa/sitemap.xml
